@@ -26,15 +26,6 @@ https://fierce-sands-78870.herokuapp.com/
 <img src="Screen Shot 2020-02-29 at 9.34.32 AM.png" width=400px>
 
 
-# Use
-User is shown default display of city of Charlotte current weather. Current weather is in main box with important attributes such as: temperature, wind speed, day. 5 day forecast is displayed under with similar attributes
-<br>
-The user can search for specific cities upon submission of the city weather display boxes change to input city. 
-<br>
-The most recent search history is displayed under the search box. 
-<br>
-Each recent search history is a button that will redisplay that cities weather
-
 
 
 # License
